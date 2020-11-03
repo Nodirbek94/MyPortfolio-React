@@ -54,3 +54,39 @@ textarea {
 .form > button:hover {
   background-color: rgb(0, 0, 196);
 }
+
+.fa-github {
+  font-size: 3em;
+  color: black;
+  padding-top: 1px;
+  padding-right: 5px;
+  padding-bottom: 1px;
+  padding-left: 2px;
+}
+
+.fa-linkedin {
+  font-size: 3em;
+  color: #0e76a8;
+  padding-top: 1px;
+  padding-right: 5px;
+  padding-bottom: 1px;
+  padding-left: 2px;
+}
+
+.fa-envelope {
+  font-size: 3em;
+  color: #f82121;
+  padding-top: 1px;
+  padding-right: 5px;
+  padding-bottom: 1px;
+  padding-left: 2px;
+}
+
+.fa-phone-square {
+  font-size: 3em;
+  color: green;
+  padding-top: 1px;
+  padding-right: 5px;
+  padding-bottom: 1px;
+  padding-left: 2px;
+}
