@@ -9,10 +9,10 @@ function Cards() {
             <div className="cards__container">
                 <div className="cards__wrapper">
                     <ul className="cards__items">
-                        <CardItem src="https://uploads.visitseattle.org/2015/07/01210133/FremontBrewing-SparklyPhotography-CMYK-900x600.jpg"
+                        <CardItem src="/imgs/11.jpg"
                             text="For Project 1, we have created app called Local Brews and users can use this app to find local Breweries!"
                             label="Local Brews"
-                            path="https://bootcampspot.com/"
+                            path="https://nodirbek94.github.io/Local-Brews/"
                         />
                         <CardItem src="https://media-cdn.tripadvisor.com/media/photo-s/0e/cc/0a/dc/restaurant-chocolat.jpg"
                             text="For Project 2, we have created Restaurant Finder where users can use the app to find local Restaurants!"
