@@ -15,7 +15,9 @@ function HeroSection() {
                         <div className="col">
                             <img src="/images/4L8A8908.jpeg" width="200" height="200" className="img-thumbnail float-left mr-3 mb-3 p-0 rounded border col-sm-12 col-md-4" />
                             <div className="col-xs-12">
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                                <p>
+                                    Hello my name is Nodirbek Maksudov and I'm Full Stack Web Developer with a Web Development Certificate from the University of Pennsylvania. I'm from Uzbekistan and currently living in Philadelphia since 2009. The reason why I have joined this Bootcamp is that I would like to do a carrier change with the help of newly knowledge that I have gained I think I will be able to find a job as a Web Developer, please checkout my portfolio and you can contact me anytime!
+                                </p>
                                 <a href="https://github.com/Nodirbek94" target="_blank"><i className="fab fa-github"></i></a>
                                 <a href="https://www.linkedin.com/in/nodirbek-maksudov-a74788186/" target="_blank"><i className="fab fa-linkedin"></i></a>
                                 <a href="mailto:nodirbekmaksudov@gmail.com" target="_blank"><i className="fas fa-envelope"></i></a>
